@@ -1,9 +1,9 @@
 {
   "env": {
-    "DB_USER": "suraj",
-    "DB_PASSWORD": "test123",
-    "DB_NAME": "mern",
+    "DB_USER": "add_your_user_name",
+    "DB_PASSWORD": "add_your_password",
+    "DB_NAME": "add_db_name",
     "GOOGLE_API_KEY": "",
-    "JWT_KEY": "supersecret_dont_share"
+    "JWT_KEY": "add_your_secret_key"
   }
 }
